@@ -1,0 +1,5 @@
+# ESP32-AC-power build property overrides
+#
+network.password=OTApass
+network.auth_upload=yes
+network.port=8266

@@ -1,0 +1,8 @@
+See schemas and other details/examples on http://forum.homedistiller.ru/index.php?topic=166750.0
+
+Connections (for ESP32 Wemos Lolin32):
+
+39 - Voltage meter (https://learn.openenergymonitor.org/electricity-monitoring/voltage-sensing/measuring-voltage-with-an-acac-power-adapter)
+36 - ACS712 (https://learn.openenergymonitor.org/electricity-monitoring/ct-sensors/interface-with-arduino)
+25 - ZeroCross detector (http://forum.homedistiller.ru/index.php?topic=166750.0)
+26 - Triac (http://forum.homedistiller.ru/index.php?topic=166750.0)
