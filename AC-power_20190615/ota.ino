@@ -69,4 +69,3 @@ void setup_OTA()
     PRINTLN("-- NO OTA in this version.");
 #endif
 }
-

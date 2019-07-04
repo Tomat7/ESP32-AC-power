@@ -77,4 +77,3 @@ void check_ZeroCross()
 {
 	zcDetectedOK = (TEH.CounterZC > 50);
 }
-

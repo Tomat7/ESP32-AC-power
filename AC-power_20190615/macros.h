@@ -77,4 +77,3 @@
 #define WAIT300 vTaskDelay(300 / portTICK_PERIOD_MS)
 
 #endif //_MACROS_h
-
