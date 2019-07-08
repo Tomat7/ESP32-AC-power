@@ -1,4 +1,4 @@
-// ��������! ������� ������ WIFI_PASS � config_wifi.h
+// WIFI_PASS in config_wifi.h
 
 void initETH()
 {
