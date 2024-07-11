@@ -1,3 +1,6 @@
+Will be archived this year.
+See next update on mb-ac-power repository.
+
 # ESP32-AC-power
 ACpower regulator on ESP32
 
